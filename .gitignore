@@ -1,0 +1,22 @@
+# Virtual Environment
+youtube_summarizer_env/
+venv/
+env/
+ENV/
+*.dylib
+**/torch/
+**/*.dylib
+**/site-packages/
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
